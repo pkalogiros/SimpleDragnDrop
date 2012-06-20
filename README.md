@@ -1,9 +1,9 @@
 SimpleDragnDrop
 ===============
 
-A very simple and small script, made to make working with "Drag n Drop" of files in JS a breeze.
+A very simple and small script (930bytes minified and gziped), made to make working with "Drag n Drop" of files in JS a breeze.
 demo: lzf.childnodes.com
-License: Do whatever you want with it
+License: Do whatever you want with it.
 
 Usage: dragNDrop( document.getElementById('____'), "myOverlay", myCallback, "arrayBuffer" );
 
